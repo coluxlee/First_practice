@@ -195,4 +195,6 @@ figure(3)
 plot(widths, I_th, 'o-', 'LineWidth', 1.5)  % 'o-' : 점(o)을 찍고 선(-)으로 이음
 xlabel('Pulse width [ms]'); ylabel('Threshold current [\muA]')
 title('A-4: Strength-duration curve'); grid on
- 
+
+
+ %깃허브용 추가 글
